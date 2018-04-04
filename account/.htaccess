@@ -1,0 +1,8 @@
+#RewriteEngine on
+#RewriteCond $1 !^(index\.php|images|stylesheets|scripts|robots\.txt)
+#RewriteRule ^(.*)$ /index.php/$1 [L]
+
+#RewriteBase /
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^[^\.]+\.php$ /example.php [L,NC]

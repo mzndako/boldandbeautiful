@@ -1,0 +1,26 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	
+}
+
+@media print {
+    .print-no-margin{
+        margin: 0px;
+    }
+}
+@media screen and (max-width: 850px){
+    .student_modal_dialog{
+        width: 100% !important;
+    }
+}
+
+@media screen and (min-width: 850px) {
+    .student_modal_dialog {
+        width: 768px !important;
+    }
+}

@@ -1,0 +1,13 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|Chuka-PC\\Chuka
+vti_modifiedby:SR|Chuka-PC\\Chuka
+vti_timelastmodified:TW|12 May 2014 11:45:09 -0000
+vti_timecreated:TR|28 Mar 2014 20:39:50 -0000
+vti_extenderversion:SR|6.0.2.5516
+vti_backlinkinfo:VX|administrator/SendSMS.php includes/ckeditor/samples/datafiltering.html administrator/NewUser.php includes/header.php administrator/NewTemplate.php administrator/NewClientDocument.php administrator/ViewPassword.php includes/ckeditor/samples/replacebyclass.html includes/ckeditor/samples/plugins/htmlwriter/outputhtml.html administrator/ViewRequest.php administrator/NewClient.php administrator/NewOrderProduct.php clients/RecoverPassword.php includes/ckeditor/samples/plugins/htmlwriter/outputforflash.html includes/ckeditor/samples/plugins/enterkey/enterkey.html includes/ckeditor/samples/xhtmlstyle.html administrator/NewEbook.php administrator/NewInvoice.php includes/ckeditor/samples/tabindex.html includes/ckeditor/samples/uicolor.html includes/ckeditor/samples/jquery.html includes/ckeditor/samples/plugins/wysiwygarea/fullpage.html includes/ckeditor/samples/plugins/dialog/dialog.html includes/ckeditor/samples/inlinetextarea.html includes/ckeditor/samples/inlineall.html administrator/admin_header.php administrator/EmailClient.php administrator/NewClientService.php administrator/NewPassword.php includes/ckeditor/samples/plugins/toolbar/toolbar.html administrator/NewService.php administrator/NewTicket.php administrator/NewClientDownload.php includes/ckeditor/samples/divreplace.html includes/ckeditor/samples/replacebycode.html includes/ckeditor/samples/api.html administrator/NewArticle.php administrator/NewScript.php administrator/NewOrder.php administrator/NewOrderService.php administrator/SendEmail.php clients/Register.php administrator/SMSClient.php includes/ckeditor/samples/plugins/magicline/magicline.html includes/ckeditor/samples/appendto.html includes/ckeditor/samples/ajax.html administrator/NewClientProduct.php administrator/NewCustom.php includes/ckeditor/samples/uilanguages.html administrator/NewCustomOrder.php includes/ckeditor/samples/readonly.html administrator/NewProduct.php includes/ckeditor/samples/inlinebycode.html
+vti_syncwith_www.ynetinteractive.com\:80:TW|12 May 2014 11:45:09 -0000
+vti_syncwith_localhost\\c\:\\xampp\\htdocs\\my web sites\\okwada/c\:/xampp/htdocs/my web sites/okwada:TW|28 Mar 2014 20:39:50 -0000
+vti_nexttolasttimemodified:TW|12 May 2014 11:45:09 -0000
+vti_cacheddtm:TX|12 May 2014 12:07:10 -0000
+vti_filesize:IR|440709
+vti_syncwith_localhost\\c\:\\xampp\\htdocs\\my web sites\\sokoto/c\:/xampp/htdocs/my web sites/sokoto:TW|12 May 2014 11:45:09 -0000
