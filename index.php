@@ -1,5 +1,5 @@
 <?php
-header("Location: home");
+header("Location: account");
 include_once 'menu.php';
 ?>
 
